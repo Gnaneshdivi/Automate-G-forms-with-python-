@@ -1,4 +1,4 @@
-# Automateing Google forms with python
+# Automating Google forms with Python
  Getting started with the code 
  
 ### Setting Up Environment 
